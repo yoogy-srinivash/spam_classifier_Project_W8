@@ -1,5 +1,6 @@
 venv/
 myenv/
+.venv/
 .env/
 models/*.pkl
 .ipynb_checkpoints/
